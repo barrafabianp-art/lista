@@ -3,5 +3,5 @@
 #EXTINF:-1 tvg-id="CHV Deportes" tvg-name="CHV Deportes" tvg-logo="https://www.chilevision.cl/assets/images/logo-chv.png" group-title="Deportes",CHV Deportes
 https://jireh-10-hls-video-cl-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvdeportes/chvdeportes.smil/playlist_1500.m3u8
 
-#EXTINF:-1 tvg-id="Canal Mediastream" tvg-name="Streaming Nacional" group-title="Nacionales",Señal en Vivo (Mediastream)
-https://cl-a9-p-e-pt11.cdn.mdstrm.com/live-stream-gdai/53d2c1a32640614e62a0e000/linear/hls/pa/event/TdvXGBreTYyJZiwX63BRIA/stream/85af60d7-a2c4-4a02-a1d4-67832a7862ed:SCL2/variant/790ec0abb94870176700ed3dbd720f8d/bandwidth/1399200
+#EXTINF:-1 tvg-id="pb" tvg-name="pb"
+https://s.oxax.tv/M1Y-Tfa8NmbzFZ-JsZ1k1Q/6/1781157020/index.m3u8
