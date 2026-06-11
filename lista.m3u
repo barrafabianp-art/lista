@@ -5,3 +5,6 @@ https://jireh-10-hls-video-cl-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc7
 
 #EXTINF:-1 tvg-id="pb" tvg-name="pb"
 https://s.oxax.tv/M1Y-Tfa8NmbzFZ-JsZ1k1Q/6/1781157020/index.m3u8
+
+#EXTINF:-1 tvg-id="CHV" tvg-name="CHV" tvg-logo="https://www.chilevision.cl/assets/images/logo-chv.png" group-title="Nacional",CHV 
+https://dai.google.com/linear/hls/pa/event/R6cwOFyHQXaW6-kMcfWYKA/stream/525884d2-a321-4aeb-86f8-b3db241e6103:SCL2/variant/460fea47b81e39eb3b257e55ffbb1f8f/bandwidth/1381204.m3u8
